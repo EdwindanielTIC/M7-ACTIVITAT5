@@ -37,9 +37,14 @@
 
  ```python
 print("Hola mundo de github")
+```
 
-
-
+## DIAGRAMAS O GRAFICOS
+graph LR;
+A --> B;
+A --> C;
+A --> D;
+C --> D;
 
 
 
