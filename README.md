@@ -40,6 +40,8 @@ print("Hola mundo de github")
 ```
 
 ## DIAGRAMAS O GRAFICOS
+
+```mermaid
 graph LR;
 A --> B;
 A --> C;
